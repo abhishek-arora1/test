@@ -1,7 +1,8 @@
 <?php
 echo "<pre/>"; 
 echo"hi abhishek";
-$n	=	20;
+echo "hi arora";
+n	=	20;
 $no=$n;
 $no_a	=	$n;
 $no_b	=	$n;
