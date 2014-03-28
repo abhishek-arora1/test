@@ -2,7 +2,7 @@
 echo "<pre/>"; 
 echo"hi abhishek";
 echo "hi arora";
-$n	=	20;
+n	=	20;
 $no=$n;
 $no_a	=	$n;
 $no_b	=	$n;
