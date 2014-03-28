@@ -1,6 +1,6 @@
 <?php
 echo "<pre/>"; 
-
+echo"hi abhishek";
 $n	=	20;
 $no=$n;
 $no_a	=	$n;
